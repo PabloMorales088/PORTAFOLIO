@@ -1,7 +1,7 @@
-
 {
   "name": "portafolio-moderno-pro",
   "version": "1.0.0",
+  "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
